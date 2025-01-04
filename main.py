@@ -48,10 +48,6 @@ def download_files_from_google_drive():
 
   for item in items:
     file_path = f"{LOCAL_IMAGE_FOLDER}/{item['name']}"
-    if os.path.exists(file_path):
-      print(f"File {item['name']} already downloaded. Skipping...")
-      continue
-
     request = service.files().get_media(fileId=item['id'])
     with open(file_path, 'wb') as f:
       downloader = MediaIoBaseDownload(f, request)
