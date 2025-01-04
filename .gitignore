@@ -174,4 +174,4 @@ cython_debug/
 # Credentials
 creds.py
 
-# End of https://www.toptal.com/developers/gitignore/api/django
+# End of https://www.toptal.com/developers/gitignore/api/djangoservice_account.json
