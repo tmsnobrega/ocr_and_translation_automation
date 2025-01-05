@@ -22,6 +22,7 @@ This project automates the process of downloading images from Google Drive, perf
 
    - Uses Google Translate API to convert English text into Portuguese.
    - Ensures high-quality and context-aware translations.
+   - It is important to note that using the Google Translate API could result in additional costs.
 
 5. **Content Organisation**:
 
