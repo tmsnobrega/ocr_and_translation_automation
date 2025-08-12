@@ -125,7 +125,7 @@ SCOPES = [
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/ocr_and_translation_automation.git
+   git clone https://github.com/tmsnobrega/ocr_and_translation_automation.git
    cd ocr_and_translation_automation
    ```
 
