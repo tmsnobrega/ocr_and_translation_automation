@@ -59,6 +59,7 @@ This project automates the process of downloading images from Google Drive, perf
    - Google Vision API
    - Google Cloud Translation API
 2. Create a service account and download the JSON credentials file.
+3. Copy the folder ID where the images are uploaded.
 
 ### Python Environment
 
